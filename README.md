@@ -1,6 +1,6 @@
 # Grow-The-Tree
 
-Long ago, back in the days of Unity 3.5, back before 2d physics was bundled with the engine me and my friend made a game. 
+Long ago (2014?), back in the days of Unity 3.5, back before 2d physics was bundled with the engine me and my friend made a game. 
 This is that game.
 
 Tentatively title "Grow The Tree", it is an arcade high-score game where you grow an unwieldy metal tree - and don't let things hit the ground.
